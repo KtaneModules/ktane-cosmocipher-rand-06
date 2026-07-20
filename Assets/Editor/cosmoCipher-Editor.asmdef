@@ -1,0 +1,10 @@
+{
+  "name": "cosmoCipher-Editor",
+  "references": [
+    "cosmoCipher"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
